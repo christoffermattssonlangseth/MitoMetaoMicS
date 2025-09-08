@@ -4,7 +4,7 @@
 <p align="center">
   <img src="assets/logo.png" alt="MitoMetaMicS Logo" width="300"/>
 </p>
-**metaoMicS** is a research repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
+metaoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
 
 ---
 
