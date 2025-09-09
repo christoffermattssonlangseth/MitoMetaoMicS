@@ -1,6 +1,6 @@
 # metaoMicS
 
-**Metabolic and mitochondrial alterations in Multiple Sclerosis (MS)**
+**Metabolic and mitochondrial alterations in Multiple Sclerosis (MS) - metamitoMicS**
 <p align="center">
   <img src="assets/logo.png" alt="MitoMetaMicS Logo" width="300"/>
 </p>
